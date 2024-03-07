@@ -1,4 +1,4 @@
-![animated-chock-coding-c78f6elj32sfoi8q](https://github.com/Enisemerci/Enisemerci/assets/114439352/82ef032f-4e75-4b3d-b3a9-11474837129f)### Hi there 👋
+![animated-chock-coding-c78f6elj32sfoi8q](https://github.com/Enisemerci/Enisemerci/assets/114439352/82ef032f-4e75-4b3d-b3a9-11474837129f)### 
 
 <!--
 **Enisemerci/Enisemerci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
