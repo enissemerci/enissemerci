@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPritamSarbajna%2FCoding-platforms-Solution&psig=AOvVaw2trJ_yzt6JqkR4JKi71SDS&ust=1709926509186000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCnkePy4oQDFQAAAAAdAAAAABAZ)
 <h1 align="center">Hi 👋, I'm Enis Semerci</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 <img align="right" alt="coding" widht="400" src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif"
